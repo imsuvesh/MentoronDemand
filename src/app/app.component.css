@@ -1,0 +1,9 @@
+/* change the background color */
+.navbar-custom {
+    background-color: #000000;
+    padding: 0;
+    margin: 0;
+}
+.top{
+    margin-top: 7px;
+}
