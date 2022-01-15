@@ -1,4 +1,19 @@
-# Mentor
+# MentorOnDemand
+
+### This Project was created as part of CTS Hackathon during July-Aug 2019
+Objective - Shows a List Mentors with their ratings and background experience, Users can book consultation with Mentors and get help, Show updates directly in UI.
+
+This repo contains the UI code of MentorOnDemand
+Tech Stack -
+* UI - Angular 
+* BE - SpringBoot
+* DB - SQL
+
+[BE Code Link](https://github.com/imsuvesh/MentoronDemand_Springcodes)
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
